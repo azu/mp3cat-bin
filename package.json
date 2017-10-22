@@ -1,6 +1,6 @@
 {
   "name": "mp3cat-bin",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Binary wrapper for mp3cat - concat mp3 files.",
   "license": "MIT",
   "repository": "azu/mp3cat-bin",

@@ -11,7 +11,7 @@ $ npm install --save mp3cat-bin
 ```
 
 ```sh
-$ hub --help
+$ mp3cat --help
 ```
 
 ## API
